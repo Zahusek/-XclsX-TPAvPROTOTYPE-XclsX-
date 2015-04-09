@@ -26,7 +26,9 @@ onDisable:
 getTabAPI().unregister();
 
 getTabAPI().update(PLAYER, STRING[]); //- create new TabList for the player
+
 getTabAPI().classic(PLAYER); //- classical TabList for the player
+
 getTabAPI().clear(PLAYER); //- clear all slots from TabList for the player
 
 # BarAPI
@@ -62,7 +64,9 @@ onDisable:
 getBarAPI().unregister();
 
 getBarAPI().update(PLAYER, STRING); //- create new BossBar with CUSTOM NAME AND 200 HEALTH for the player
+
 getBarAPI().update(PLAYER, STRING, FLOAT); //- create new BossBar with CUSTOM NAME AND CUSTOM HEALTH for the player
+
 getBarAPI().remove(PLAYER); //- remove BossBar for the player
 
 # ParticleAPI
@@ -117,12 +121,18 @@ onDisable:
 getHoloAPI().unregister();
 
 getHoloAPI().create(PLAYER, LOCATION, STRING[]); //- create new Hologram for the player
+
 getHoloAPI().create(PLAYER, LOCATION, INT, STRING[]); //- create new Hologram on X second/s for the player
+
 getHoloAPI().remove(PLAYER, INT); //- remove Hologram for the player
+
 getHoloAPI().removeALL(PLAYER); //- remove all Holograms for the player
 
 //method create also return id !
+
 int id = getHoloAPI().create(PLAYER, LOCATION, STRING[]);
+
 Player player = ...
+
 getHoloAPI().remove(player, id);
 
