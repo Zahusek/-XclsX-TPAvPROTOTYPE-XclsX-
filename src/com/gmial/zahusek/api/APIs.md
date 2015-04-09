@@ -11,7 +11,7 @@
       » PacketSend.java
       » Reflcetion.java
 
-Usage:
+- Usage:
 
 TabAPI tabapi = new TabAPI(this);
  
@@ -49,7 +49,7 @@ getTabAPI().clear(PLAYER); //- clear all slots from TabList for the player
       » PacketSend.java
       » Reflcetion.java
 
-Usage:
+- Usage:
 
 BarAPI barapi = new BarAPI(this);
  
@@ -80,7 +80,7 @@ getBarAPI().remove(PLAYER); //- remove BossBar for the player
       » PacketSend.java
       » Reflcetion.java
 
-Usage:
+- Usage:
 
 ParticleAPI.send(PLAYER, EFFECT, LOCATION, INT, FLOAT, FLOAT, FLOAT, FLOAT); //send effect for the player
 
@@ -106,7 +106,7 @@ ParticleAPI.send(PLAYER, MATERIAL, EFFECT, INT, INT, LOCATION, INT, FLOAT, FLOAT
       » PacketSend.java
       » Reflcetion.java
 
-Usage:
+- Usage:
 
 HoloAPI holoapi = new HoloAPI(this);
  
