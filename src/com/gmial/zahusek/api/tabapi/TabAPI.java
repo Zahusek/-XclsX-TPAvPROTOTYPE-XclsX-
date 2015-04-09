@@ -56,8 +56,8 @@ public class TabAPI {
 				two = msg.substring(16, msg.length()).length()+2 > 16 ? "§r" + msg.substring(16, 30) : "§r" + msg.substring(16, msg.length());
 				int idx = one.lastIndexOf("§");
 				if(idx != -1) two = one.substring(idx, idx+2) + two.substring(2, two.length());
-				ppost.setSuffix(two);
 			}
+			ppost.setSuffix(two);
 			ps.sendPacket(ppost.getPacket(ScoreboardTeamType.UPDATE));
 		}
 	}
