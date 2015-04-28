@@ -16,3 +16,4 @@ Na dzis zawiera: | On today contains:
 # HoloAPI
 ![ScreenShot](http://i.imgur.com/rzMJarF.png)
 # ServerStatusAPI
+![ScreenShot](http://i.imgur.com/guCdywA.png)
