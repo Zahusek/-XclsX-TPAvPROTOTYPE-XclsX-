@@ -5,7 +5,7 @@ Na dzis zawiera: | On today contains:
 - BarAPI
 - ParticleAPI
 - HoloAPI
-- StatusServerAPI
+- StatusServerAPI (TinyPacketAPI!)
 
 # TabAPI
 ![ScreenShot](http://i.imgur.com/VfRjyl7.png)
