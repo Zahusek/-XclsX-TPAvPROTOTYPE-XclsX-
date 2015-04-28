@@ -5,6 +5,7 @@ Na dzis zawiera: | On today contains:
 - BarAPI
 - ParticleAPI
 - HoloAPI
+- StatusServerAPI
 
 # TabAPI
 ![ScreenShot](http://i.imgur.com/VfRjyl7.png)
@@ -14,3 +15,4 @@ Na dzis zawiera: | On today contains:
 ![ScreenShot](http://i.imgur.com/1fG3Qyd.png)
 # HoloAPI
 ![ScreenShot](http://i.imgur.com/rzMJarF.png)
+# ServerStatusAPI
