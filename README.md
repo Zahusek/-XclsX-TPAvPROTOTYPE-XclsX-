@@ -1,5 +1,5 @@
 # PacketAPI - Small library.
-# Support: #BukkitFamily #BukkitTeam 
+# Corporation: #BukkitFamily #BukkitTeam 
 
 Na dzis zawiera: | On today contains:
 - TabAPI
