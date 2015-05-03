@@ -1,5 +1,6 @@
-# PacketAPI - Small library.
-# Corporation: #BukkitFamily #BukkitTeam 
+# PacketAPI - Small library - this page;
+# TinyPacketAPI - Next Generation PacketAPI, Modernization - guthub.com/Zahusek/TinyPacketAPI/
+# Team: #BukkitFamily
 
 Na dzis zawiera: | On today contains:
 - TabAPI
