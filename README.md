@@ -1,5 +1,5 @@
 # PacketAPI - Small library - this page;
-# TinyPacketAPI - Next Generation PacketAPI, Modernization - guthub.com/Zahusek/TinyPacketAPI/
+# TinyProtocolAPI (aka.TinyPacketAPI) - Next Generation PacketAPI, Modernization - guthub.com/Zahusek/TinyProtocolAPI/
 # Team: #BukkitFamily
 
 Na dzis zawiera: | On today contains:
@@ -7,7 +7,8 @@ Na dzis zawiera: | On today contains:
 - BarAPI
 - ParticleAPI
 - HoloAPI
-- ServerServerAPI (TinyPacketAPI!)
+- ServerServerAPI (TinyProtocolAPI!)
+#UPDATE PROJECT (TabAPI and others) - WKRÓTCE/COMING SOON..
 
 # TabAPI
 ![ScreenShot](http://i.imgur.com/VfRjyl7.png)
