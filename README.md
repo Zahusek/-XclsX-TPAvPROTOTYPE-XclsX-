@@ -21,5 +21,8 @@ Na dzis zawiera: | On today contains:
 ![ScreenShot](http://i.imgur.com/1fG3Qyd.png)
 # HoloAPI
 ![ScreenShot](http://i.imgur.com/rzMJarF.png)
+
 # ServerStatusAPI
 ![ScreenShot](http://i.imgur.com/guCdywA.png)
+#here - https://github.com/Zahusek/TinyProtocolAPI/tree/master/src/com/gmail/zahusek/api/serverstatusapi
+
